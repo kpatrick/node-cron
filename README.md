@@ -1,4 +1,6 @@
-# Node Cron
+# Node Cron (No Spam)
+
+Same as node-cron v2.0.3 but without opencollective-postinstall
 
 [![npm](https://img.shields.io/npm/l/node-cron.svg)](https://github.com/merencia/node-cron/blob/master/LICENSE.md)
 [![npm](https://img.shields.io/npm/v/node-cron.svg)](https://img.shields.io/npm/v/node-cron.svg)
@@ -17,10 +19,10 @@ The node-cron module is tiny task scheduler in pure JavaScript for node.js based
 
 ## Getting Started
 
-Install node-cron using npm:
+Install node-cron-no-spam using npm:
 
 ```console
-$ npm install --save node-cron
+$ npm install --save node-cron-no-spam
 ```
 
 Import node-cron and schedule a task:
